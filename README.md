@@ -3,7 +3,7 @@
 ## Ejercicios de Practicas  git push/git pull
 
 
-- Este ejercicio tendra lo siguente
+Este ejercicio tendra lo siguente
 
 1. git clone SSH
 2. git branch
